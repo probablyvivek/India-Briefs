@@ -15,7 +15,6 @@ nav_order: 1
 🔗 [**MEA Briefing – 9 May 2025**]({{ site.baseurl }}/summaries/mea/2025-05-09)  
 *After 300+ Pakistani drone incursions, India retaliated with precision drone strikes — disabling enemy air defenses, exposing Pakistan’s attacks on religious sites, and neutralizing disinformation with hard intel.*  
 
-
 ---
 
 ## 🗓️ Conflict Timeline (Snapshot)
@@ -42,4 +41,4 @@ nav_order: 1
 
 ---
 
-**Last Updated: 10 May 2025 at 10:00 AM**
+<span style="font-size: 0.9rem; color: gray;">Last updated: 10 May 2025 at 10:00 AM IST</span>

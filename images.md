@@ -5,7 +5,7 @@ nav_order: 3
 permalink: /gallery/
 ---
 
-# Media Gallery
+# **Media Gallery**
 
 A verified collection of visual updates related to Operation Sindoor and the India–Pakistan conflict. All images are publicly sourced and attributed.
 
