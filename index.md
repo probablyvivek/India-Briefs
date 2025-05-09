@@ -4,10 +4,8 @@ title: India Briefs
 nav_order: 1
 ---
 
-# India Briefs
 
-**No Speculation. No Spin. Just India’s Official Word.**  
-Curated updates from the Ministry of External Affairs (MEA) and Ministry of Defence (MOD) — focused on Operation Sindoor and the ongoing India–Pakistan conflict.
+**No Speculation. No Spin. Just India’s Official Word.** Curated updates from the Ministry of External Affairs (MEA) and Ministry of Defence (MOD) — focused on Operation Sindoor and the ongoing India–Pakistan conflict.
 
 ---
 
