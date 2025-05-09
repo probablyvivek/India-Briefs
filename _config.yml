@@ -1,0 +1,41 @@
+title: India Briefs
+remote_theme: just-the-docs/just-the-docs
+sass:
+  style: compressed
+
+baseurl: "/India-Briefs"
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+nav:
+  - title: India Briefs
+    url: /
+
+  - title: Timeline
+    url: /timeline
+
+  - title: Summaries
+    children:
+      - title: MEA Briefing – 23 April 2025
+        url: /summaries/mea/2025-04-23
+      - title: MEA Briefing – 7 May 2025
+        url: /summaries/mea/2025-05-07
+      - title: MEA Briefing – 8 May 2025
+        url: /summaries/mea/2025-05-08
+      - title: MEA Briefing – 9 May 2025
+        url: /summaries/mea/2025-05-09
+      - title: MOD Briefing – 7 May 2025
+        url: /summaries/mod/2025-05-07-pib
+      - title: MOD Briefing – 8 May 2025
+        url: /summaries/mod/2025-05-08-pib
+
+  - title: Media Gallery
+    url: /gallery
+
+  - title: Contribute
+    url: /contribute
+
+  - title: About
+    url: /about

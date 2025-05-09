@@ -1,0 +1,36 @@
+@import "just-the-docs";
+
+h1 {
+  margin-bottom: 1.5rem;
+}
+
+.sidebar {
+  font-size: 15px;
+}
+
+.summary-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card a {
+  text-decoration: none;
+  color: #0056b3;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
