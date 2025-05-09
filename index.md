@@ -4,39 +4,53 @@ title: India Briefs
 nav_order: 1
 ---
 
+# 🇮🇳 **India Briefs**
 
-**No Speculation. No Spin. Just India’s Official Word.** Curated updates from the Ministry of External Affairs (MEA) and Ministry of Defence (MOD) — focused on Operation Sindoor and the ongoing India–Pakistan conflict.
-
----
-
-## 📰 Latest Briefing – 9 May 2025
-
-**[MEA Briefing – 9 May 2025]({{ site.baseurl }}/summaries/mea/2025-05-09)**  
-*Following Pakistan's latest barrage of drones, missiles, and false statements, India responded with measured military action and steady diplomatic efforts. Strategic drone operations disabled Pakistani air defense installations while the Ministry of External Affairs (MEA) revealed Pakistan's attacks on religious buildings, dangerous use of airspace, and misinformation campaigns. Simultaneously, India contacted world capitals and explained to the IMF why financing terrorism creates negative consequences.*
-
+**No Speculation. No Spin. Just India’s Official Word.** Curated updates from the **Ministry of External Affairs (MEA)** and **Ministry of Defence (MOD)** — focused on Operation Sindoor and the ongoing India–Pakistan conflict.
 
 ---
 
-## 🗓️ Timeline Snapshot
+## 📰 Latest Briefing — 9 May 2025
 
-| Date       | Event                                                                 |
-|------------|------------------------------------------------------------------------|
-| 9 May      | India confirms destruction of Pakistani air defense radar in Lahore   |
-| 8 May      | Retaliatory drone strikes by India after Pakistani provocations       |
-| 7 May      | Operation Sindoor: 9 terror camps destroyed across Pakistan & PoK     |
-| 23 April   | India expels diplomats, suspends visas, halts Indus Treaty            |
-| 22 April   | Pahalgam massacre: 26 civilians killed by Pakistan-backed terrorists  |
+🔗 [**MEA Briefing – 9 May 2025**]({{ site.baseurl }}/summaries/mea/2025-05-09)  
+*After 300+ Pakistani drone incursions, India retaliated with precision drone strikes — disabling enemy air defenses, exposing Pakistan’s attacks on religious sites, and neutralizing disinformation with hard intel.*  
+**→ Full Summary →**  
 
-[→ Full Timeline]({{ site.baseurl }}/timeline)
+---
+
+## 🧭 Situation Map
+
+- **Operation Sindoor:** Precision strikes on 9 terror camps across PoK and Pakistan.
+- **Pakistani Escalation:** Drone swarms, LoC shelling, missile attacks.
+- **Indian Response:** Targeted counterstrikes, diplomatic clarity, no civilian harm.
+- **Casualties (India):** 16 civilians dead from LoC shelling.
+- **Global Support:** Strong statements from US, UK, Norway, Saudi Arabia.
+- **Indus Waters Treaty:** Suspended until Pakistan halts cross-border terror.
+
+---
+
+## 🗓️ Conflict Timeline (Snapshot)
+
+| Date       | Incident                                                                 |
+|------------|--------------------------------------------------------------------------|
+| 9 May      | Indian drones destroy Pakistani AD radar in Lahore                       |
+| 8 May      | Indian counterstrikes after failed Pakistani drone & missile attacks     |
+| 7 May      | Operation Sindoor: India hits 9 terror hubs in Pakistan & PoK            |
+| 23 April   | India expels diplomats, suspends visas, halts Indus Waters Treaty        |
+| 22 April   | Pahalgam terror attack kills 26 civilians                                |
+
+📌 [**View Full Timeline**]({{ site.baseurl }}/timeline)
 
 ---
 
 ## 📂 Access Official Briefings
 
-- [All MEA & MOD Summaries]({{ site.baseurl }}/summaries)
-- [Media Gallery – Airstrikes, Maps, Public Sentiment]({{ site.baseurl }}/gallery)
-- [Operation Sindoor – Full Timeline]({{ site.baseurl }}/timeline)
-- [About This Project]({{ site.baseurl }}/about)
-- [Contribute / Upload Verified Info]({{ site.baseurl }}/contribute)
+- [**MEA + MOD Briefings (All Dates)**]({{ site.baseurl }}/summaries)
+- [**Visual Gallery** — Maps, Airstrikes, Public Response]({{ site.baseurl }}/gallery)
+- [**Operation Sindoor Timeline**]({{ site.baseurl }}/timeline)
+- [**About the Project**]({{ site.baseurl }}/about)
+- [**Contribute / Submit Material**]({{ site.baseurl }}/contribute)
 
 ---
+
+**Last Updated: 10 May 2025 at 10:00 AM**
