@@ -1,6 +1,5 @@
 title: India Briefs
-remote_theme: mmistakes/minimal-mistakes
-
+remote_theme: just-the-docs/just-the-docs
 sass:
   style: compressed
 
