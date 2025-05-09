@@ -15,16 +15,6 @@ nav_order: 1
 🔗 [**MEA Briefing – 9 May 2025**]({{ site.baseurl }}/summaries/mea/2025-05-09)  
 *After 300+ Pakistani drone incursions, India retaliated with precision drone strikes — disabling enemy air defenses, exposing Pakistan’s attacks on religious sites, and neutralizing disinformation with hard intel.*  
 
----
-
-## 🧭 Situation Map
-
-- **Operation Sindoor:** Precision strikes on 9 terror camps across PoK and Pakistan.
-- **Pakistani Escalation:** Drone swarms, LoC shelling, missile attacks.
-- **Indian Response:** Targeted counterstrikes, diplomatic clarity, no civilian harm.
-- **Casualties (India):** 16 civilians dead from LoC shelling.
-- **Global Support:** Strong statements from US, UK, Norway, Saudi Arabia.
-- **Indus Waters Treaty:** Suspended until Pakistan halts cross-border terror.
 
 ---
 
