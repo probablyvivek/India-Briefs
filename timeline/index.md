@@ -5,10 +5,9 @@ nav_order: 2
 permalink: /timeline/
 ---
 
-# 🗓 Timeline of Key Events – Operation Sindoor
+# Timeline of Key Events – Operation Sindoor
 
-A chronological record of the major events, briefings, and military actions following the **Pahalgam terror attack** on April 22, 2025.  
-Use this timeline to track how India responded through **measured military precision** and **firm diplomacy**.
+A chronological record of the major events, briefings, and military actions following the **Pahalgam terror attack** on April 22, 2025. Use this timeline to track how India responded through **measured military precision** and **firm diplomacy**.
 
 ---
 
