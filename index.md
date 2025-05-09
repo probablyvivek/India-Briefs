@@ -4,10 +4,7 @@ title: India Briefs
 nav_order: 1
 ---
 
-# 🇮🇳 India Briefs
-
-No spin. No bias. Just official summaries from the Ministry of External Affairs (MEA) and Ministry of Defence (MOD).
-If you are trying to stay informed without losing your sanity, start here.
+No spin. No bias. Just official summaries from the Ministry of External Affairs (MEA) and Ministry of Defence (MOD). If you are trying to stay informed without losing your sanity, start here.
 
 ---
 
