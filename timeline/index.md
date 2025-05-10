@@ -74,3 +74,25 @@ A chronological record of the major events, briefings, and military actions foll
 - **Source**: [MEA Briefing – 9 May]({{ site.baseurl }}/summaries/mea/2025-05-09)
 
 ---
+
+
+### 10 May — Pakistan Escalates with UCAVs, India Hits Back Hard
+
+- **Pakistan**:
+  * Launched drone swarms, loitering munitions, missiles, and jets across 26+ border points.
+  * Targeted IAF stations (Udhampur, Pathankot, Adampur, Bhuj, Bathinda) and hit schools/medical centers.
+  * Used Lahore civil flights to mask strikes.
+  * Spread false claims of hits on Adampur S-400, Nagrota BrahMos base, etc. — all debunked.
+- **India**:
+  * Neutralized most threats.
+  * Precision strikes hit command nodes at Rafiqui, Chaklala, Murid, Sukkur, Pasrur, Sialkot.
+  * Released time-stamped images disproving Pakistan’s claims.
+- **LoC**:
+  * Heavy shelling in Kupwara, Rajouri, Baramulla sectors.
+  * Rajouri ADC Raj Kumar Thapa killed.
+  * India retaliated forcefully.
+- **MEA**:
+  * Slammed Pakistan’s lies about Amritsar, Afghanistan.
+  * Asserted India’s restraint, democracy, and readiness.
+- **Source**: [MEA Briefing – 10 May]({{ site.baseurl }}/summaries/mea/2025-05-10)
+

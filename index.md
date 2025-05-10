@@ -10,10 +10,10 @@ nav_order: 1
 
 ---
 
-## 📰 Latest Briefing — 9 May 2025
+## 📰 Latest Briefing — 10 May 2025
 
-🔗 [**MEA Briefing – 9 May 2025**]({{ site.baseurl }}/summaries/mea/2025-05-09)  
-*After 300+ Pakistani drone incursions, India retaliated with precision drone strikes — disabling enemy air defenses, exposing Pakistan’s attacks on religious sites, and neutralizing disinformation with hard intel.*  
+🔗 [**MEA Briefing – 10 May 2025**]({{ site.baseurl }}/summaries/mea/2025-05-10)  
+*Pakistan intensified hostilities with drone swarms, missile strikes, and deliberate attacks on Indian medical and educational facilities. India countered with exact airstrikes throughout Pakistan, neutralizing critical military assets including radar installations, ammunition storage, and command facilitie.*  
 
 ---
 
@@ -21,6 +21,7 @@ nav_order: 1
 
 | Date       | Incident                                                                 |
 |------------|--------------------------------------------------------------------------|
+| 10 May     | MEA briefing: Pakistan's drone swarms, missile strikes, and misinformation |
 | 9 May      | Indian drones destroy Pakistani AD radar in Lahore                       |
 | 8 May      | Indian counterstrikes after failed Pakistani drone & missile attacks     |
 | 7 May      | Operation Sindoor: India hits 9 terror hubs in Pakistan & PoK            |
@@ -41,4 +42,4 @@ nav_order: 1
 
 ---
 
-<span style="font-size: 0.9rem; color: gray;">Last updated: 10 May 2025 at 10:00 AM IST</span>
+<span style="font-size: 0.9rem; color: gray;">Last updated: 10 May 2025 at 1:00 PM IST</span>
