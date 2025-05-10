@@ -38,3 +38,16 @@ A verified collection of visual updates related to Operation Sindoor and the Ind
 ![Engagement Activity](https://github.com/probablyvivek/India-Briefs/blob/main/assets/images/engagement-activity.png?raw=true)
 
 **Source:** [Detresfa](https://x.com/detresfa_/status/1920923690583175427/photo/1)
+
+
+### NOTAM
+
+A Notice to Airmen (NOTAM) is a message containing information concerning the establishment, condition, or change in any aeronautical facility, service, procedure, or hazard, the timely knowledge of which is essential to personnel concerned with flight operations.
+ 
+It is used to inform pilots and other aviation personnel about conditions that are not known far enough in advance to be publicised through other means.
+
+NOTAMs are created and transmitted by government agencies and airport operators under guidelines specified by Annex 15: Aeronautical Information Services of the Convention on International Civil Aviation (CICA).
+
+![NOTAM](https://github.com/probablyvivek/India-Briefs/blob/main/assets/images/notam.png?raw=true)
+
+**Source:** [Detresfa](https://x.com/detresfa_/status/1921041659485192446)
