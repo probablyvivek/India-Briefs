@@ -19,8 +19,6 @@ nav_order: 1
 
 ## 🗓️ Conflict Timeline (Snapshot)
 
-## 🗓️ Conflict Timeline (Snapshot)
-
 | Date       | Incident                                                                 |
 |------------|--------------------------------------------------------------------------|
 | 10 May     | MEA briefing: Pakistan escalates with drones, missiles, and disinformation |
