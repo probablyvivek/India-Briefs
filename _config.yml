@@ -27,13 +27,13 @@ nav:
       - title: MEA Briefing – 9 May 2025
         url: /summaries/mea/2025-05-09
       - title: MEA Briefing – 10 May 2025
-        url: /summaries/mea/2025-05-10
-      - title: MEA Briefing – 10 May 2025 Part 2
         url: /summaries/mea/2025-05-102
       - title: MOD Briefing – 7 May 2025
         url: /summaries/mod/2025-05-07-pib
       - title: MOD Briefing – 8 May 2025
         url: /summaries/mod/2025-05-08-pib
+      - title: MOD Briefing – 10 May 2025
+        url: /summaries/mod/2025-05-10-pib
 
   - title: Media Gallery
     url: /gallery
