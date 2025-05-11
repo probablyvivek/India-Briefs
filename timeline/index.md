@@ -113,7 +113,5 @@ A chronological record of the major events, briefings, and military actions foll
 * Publicly exposed and debunked all Pakistani claims.
 * Warned that future escalations will be decisively countered.
 
-- **Source:**
-
-[MEA Briefing – 10 May]({{ site.baseurl }}/summaries/mea/2025-05-102)
+- **Source:** [MEA Briefing – 10 May]({{ site.baseurl }}/summaries/mea/2025-05-102)
 
