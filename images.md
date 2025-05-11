@@ -51,3 +51,10 @@ NOTAMs are created and transmitted by government agencies and airport operators 
 ![NOTAM](https://github.com/probablyvivek/India-Briefs/blob/main/assets/images/notam.png?raw=true)
 
 **Source:** [Detresfa](https://x.com/detresfa_/status/1921041659485192446)
+
+
+### 10 May 2025 Conflict Map
+
+![10 May 2025 Conflict Map](https://github.com/probablyvivek/India-Briefs/blob/main/assets/images/10may-conflict.png?raw=true)
+
+**Source:** [Detresfa](https://x.com/detresfa_/status/1921086480631419136/photo/1)
