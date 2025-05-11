@@ -9,6 +9,7 @@ permalink: /summaries
 
 ## 🏛 Ministry of External Affairs (MEA)
 
+- [MEA Briefing – 10 May 2025]({{ site.baseurl }}/summaries/mea/2025-05-102)
 - [MEA Briefing – 10 May 2025]({{ site.baseurl }}/summaries/mea/2025-05-10)
 - [MEA Briefing – 9 May 2025]({{ site.baseurl }}/summaries/mea/2025-05-09)
 - [MEA Briefing – 8 May 2025]({{ site.baseurl }}/summaries/mea/2025-05-08)
