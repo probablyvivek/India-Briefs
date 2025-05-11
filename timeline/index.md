@@ -96,3 +96,24 @@ A chronological record of the major events, briefings, and military actions foll
   * Asserted India’s restraint, democracy, and readiness.
 - **Source**: [MEA Briefing – 10 May]({{ site.baseurl }}/summaries/mea/2025-05-10)
 
+### 10 May — Pakistan Escalates with UCAVs, India Responds with Precision
+- **Pakistan:**
+  * Cross-border UCAV, drone, and missile attacks at 26+ locations.
+  * Targeted both military installations (Udhampur, Pathankot, Adampur, Bhuj, Bathinda) and civilian areas.
+  * Hit schools and medicare centers at Srinagar and Awantipora.
+  * Spread falsehoods about destroying Indian assets.
+
+- **India:**
+  * Neutralized majority of threats.
+  * Targeted and hit:
+    * Skardu, Jacobabad, Sargodha, Bholari (airbases)
+    * Pasrur, Sialkot (radar sites)
+    * Multiple C2 centers and logistic nodes near LoC.
+
+* Publicly exposed and debunked all Pakistani claims.
+* Warned that future escalations will be decisively countered.
+
+- **Source:**
+
+[MEA Briefing – 10 May]({{ site.baseurl }}/summaries/mea/2025-05-102)
+
