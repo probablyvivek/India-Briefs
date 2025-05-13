@@ -115,3 +115,11 @@ A chronological record of the major events, briefings, and military actions foll
 
 - **Source:** [MOD Briefing – 10 May]({{ site.baseurl }}/summaries/mod/2025-05-10)
 
+### 12 May — PM Modi Declares Endgame Policy
+
+- PM Modi confirms over 100 terrorists eliminated in Operation Sindoor.
+- Announces India’s new national security doctrine: decisive retaliation, no nuclear blackmail, no distinction between state and terrorist actors.
+- Says Pakistan approached India via DGMO for de-escalation.
+- Confirms strikes on Bahawalpur, Muridke, and terror camps in PoK and Pakistan.
+- Declares: No talks with Pakistan unless it dismantles terror infrastructure.
+- **Source**: [PM Address – 12 May]({{ site.baseurl }}/summaries/pm/2025-05-12)

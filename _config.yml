@@ -18,6 +18,9 @@ nav:
 
   - title: Summaries
     children:
+      - title: PM Address – 12 May 2025
+        url: /summaries/pmo/2025-05-12
+
       - title: MEA Briefing – 23 April 2025
         url: /summaries/mea/2025-04-23
       - title: MEA Briefing – 7 May 2025
@@ -27,13 +30,14 @@ nav:
       - title: MEA Briefing – 9 May 2025
         url: /summaries/mea/2025-05-09
       - title: MEA Briefing – 10 May 2025
-        url: /summaries/mea/2025-05-102
+        url: /summaries/mea/2025-05-10
+
       - title: MOD Briefing – 7 May 2025
         url: /summaries/mod/2025-05-07-pib
       - title: MOD Briefing – 8 May 2025
         url: /summaries/mod/2025-05-08-pib
       - title: MOD Briefing – 10 May 2025
-        url: /summaries/mod/2025-05-10-pib
+        url: /summaries/mod/2025-05-10
 
   - title: Media Gallery
     url: /gallery

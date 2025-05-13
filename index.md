@@ -4,44 +4,45 @@ title: India Briefs
 nav_order: 1
 ---
 
-# 🇮🇳 **India Briefs**
+# India Briefs
 
-**No Speculation. No Spin. Just India’s Official Word.** Curated updates from the **Ministry of External Affairs (MEA)** and **Ministry of Defence (MOD)** — focused on Operation Sindoor and the ongoing India–Pakistan conflict.
-
----
-
-## 📰 Latest Briefing — 10 May 2025
-
-🔗 [**MOD Briefing – 10 May 2025**]({{ site.baseurl }}/summaries/mod/2025-05-10)  
-*India officially dismissed Pakistan's outlandish allegations about destroying Indian military facilities. Instead, it verified that Pakistan experienced **significant damage** to its major airbases and air defense networks. No religious facilities were targeted. No Indian weaknesses were revealed. The only deterioration occurred across the border, both in military capabilities and moral standing.*
+**No speculation. No spin. Just India’s official word.**  
+Curated updates from the Ministry of External Affairs (MEA), Ministry of Defence (MOD), and Prime Minister’s Office (PMO) — focused on Operation Sindoor and the ongoing India–Pakistan conflict.
 
 ---
 
-## 🗓️ Conflict Timeline (Snapshot)
+## Latest Briefing — 12 May 2025
+
+**[Prime Minister's Address – 12 May 2025]({{ site.baseurl }}/summaries/pmo/2025-05-12)**  
+Prime Minister Modi declared that Operation Sindoor marks a **new normal** in India’s counter-terror policy. He confirmed the destruction of Pakistan’s terror infrastructure, warned against nuclear blackmail, and laid down a clear doctrine: **no distinction between terrorists and their sponsors**. Talks with Pakistan, he said, will now center solely on terrorism and Pakistan-occupied Kashmir.
+
+---
+
+## Conflict Timeline (Snapshot)
 
 | Date       | Incident                                                                 |
 |------------|--------------------------------------------------------------------------|
-| 10 May     | MOD briefing: India confirms destruction of Pakistani airbases & radars, refutes mosque strike claims |
-| 10 May     | MEA briefing: Pakistan escalates with drones, missiles, and disinformation |
-| 9 May      | Indian drones destroy Pakistani AD radar in Lahore                       |
-| 8 May      | Indian counterstrikes after failed Pakistani drone & missile attacks     |
-| 7 May      | Operation Sindoor: India hits 9 terror hubs in Pakistan & PoK            |
-| 23 April   | India expels diplomats, suspends visas, halts Indus Waters Treaty        |
-| 22 April   | Pahalgam terror attack kills 26 civilians                                |
+| 12 May     | PM Modi outlines new counter-terror doctrine and strategic pause         |
+| 10 May     | MOD confirms Pakistani airbase damage, debunks misinformation            |
+| 10 May     | MEA details Pakistani drone strikes and India’s precise retaliation      |
+| 9 May      | India destroys Pakistani AD radar near Lahore                            |
+| 8 May      | India strikes back after failed Pakistani drone and missile attacks      |
+| 7 May      | Operation Sindoor launched: 9 terror hubs struck across Pakistan and PoK |
+| 23 April   | India suspends visas, expels diplomats, halts Indus Waters Treaty        |
+| 22 April   | Pahalgam massacre: 26 civilians killed by Pakistan-backed terrorists     |
 
-
-📌 [**View Full Timeline**]({{ site.baseurl }}/timeline)
-
----
-
-## 📂 Access Official Briefings
-
-- [**MEA + MOD Briefings (All Dates)**]({{ site.baseurl }}/summaries)
-- [**Visual Gallery** — Maps, Airstrikes, Public Response]({{ site.baseurl }}/gallery)
-- [**Operation Sindoor Timeline**]({{ site.baseurl }}/timeline)
-- [**About the Project**]({{ site.baseurl }}/about)
-- [**Contribute / Submit Material**]({{ site.baseurl }}/contribute)
+[View Full Timeline]({{ site.baseurl }}/timeline)
 
 ---
 
-<span style="font-size: 0.9rem; color: gray;">Last updated: 11 May 2025 at 11:00 AM IST</span>
+## Access Official Briefings
+
+- [MEA, MOD, and PM Briefings]({{ site.baseurl }}/summaries)
+- [Visual Archive: Maps, Airstrikes, Public Sentiment]({{ site.baseurl }}/gallery)
+- [Operation Sindoor Timeline]({{ site.baseurl }}/timeline)
+- [About India Briefs]({{ site.baseurl }}/about)
+- [Contribute Verified Information]({{ site.baseurl }}/contribute)
+
+---
+
+<span style="font-size: 0.9rem; color: gray;">Last updated: 13 May 2025 at 10:00 IST</span>
